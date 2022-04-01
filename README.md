@@ -2,7 +2,7 @@
 
 Thanks again for giving me this opportunity, I thought this was a great assessment.
 
-## Available Scripts
+## To run
 
 Before running the app, install required modules using
 
